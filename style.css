@@ -4,6 +4,7 @@
     padding: 0;
     border: 0;
     font-family: "JetBrains Mono", monospace;
+    color: white;
 }
 body {
     background-color: #252525;
@@ -23,13 +24,11 @@ header {
     margin-bottom: 32px;
 }
 #box h1 {
-    color: white;
     font-size: 42px;
     line-height: 52px;
     font-weight: bold;
 }
 #box h2 {
-    color: white;
     font-size: 24px;
     line-height: 34px;
     font-weight: normal;
@@ -37,7 +36,6 @@ header {
     opacity: 0.8;
 }
 #box p {
-    color: white;
     max-width: 500px;
     margin: 32px auto;
     font-size: 24px;
@@ -47,7 +45,6 @@ header {
     text-align: center;
 }
 .links a {
-    color: white;
     font-size: 20px;
     line-height: 30px;
     margin: 0 16px;
